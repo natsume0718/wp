@@ -6,7 +6,6 @@
       </a>
     </p>
     <p class="busi-time">6:00~12:00 / 13:00 ~ 30:00</p>
-    <p class="map"><i class="fas fa-map-marker-alt fa-2x"></i><span>MAP</span></p>
   </div>
 </section>
 
